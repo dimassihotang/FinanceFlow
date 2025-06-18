@@ -22,4 +22,4 @@ IBM Granite digunakan untuk:
 ## 🚀 Cara Menjalankan  
 1. Clone repositori:  
    ```bash
-   git clone https://github.com/dimassihotang/FinanceFlow
+  https://github.com/dimassihotang/FinanceFlow
