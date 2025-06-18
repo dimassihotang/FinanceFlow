@@ -1,4 +1,3 @@
-# FinanceFlow
 # 💰 FinanceFlow  
 *A Personal Finance Manager Web App*  
 
@@ -22,4 +21,4 @@ IBM Granite digunakan untuk:
 ## 🚀 Cara Menjalankan  
 1. Clone repositori:  
    ```bash
-  git clone https://github.com/dimassihotang/FinanceFlow
+   git clone https://github.com/username/financeflow.git
