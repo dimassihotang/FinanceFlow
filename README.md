@@ -1,7 +1,7 @@
 # 💰 FinanceFlow  
 *A Personal Finance Manager Web App*  
 
-![Screenshot](assets/screenshot.png)  
+ 
 
 ## 🌟 Fitur  
 - **CRUD Transaksi**: Tambah, edit, hapus catatan keuangan.  
